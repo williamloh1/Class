@@ -11,6 +11,5 @@ print("A third line")
 
 print("test")
 
-lin
-ge
-chun
+variable<-1234
+print(variable)
