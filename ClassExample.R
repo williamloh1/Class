@@ -9,4 +9,11 @@ print("A new line")
 print("A third line")
 
 print("test")
-variable<-5
+
+
+print("hello there")
+variable<-2
+variable<-4
+varilble<-289
+print(variable+3)
+
