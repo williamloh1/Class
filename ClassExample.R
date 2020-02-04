@@ -13,4 +13,6 @@ print("test")
 
 print("hello there")
 variable<-2
+variable<-4
+varilble<-289
 print(variable+3)
